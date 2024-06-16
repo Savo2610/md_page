@@ -22,7 +22,7 @@ Hier sind einige Tools, die ich auf anderen Seiten hoste:
 
 - [PasteBin](https://bin.veerka.mp) Sende Texte
 - [FileTransfer](https://send.veerka.mp) Sende Dateien
-- [DiaryDash](https://diarydash.streamlit.app) Sende Texte
+- [DiaryDash](https://diarydash.streamlit.app) Analysiere dein Tagebuch
 
 
 
