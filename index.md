@@ -14,6 +14,7 @@ Befreunde dich mit mir im Internet:
 - [Twitch](https://twitch.tv/savo2610) Schau was ich schau
 - [YouTube](https://youtube.com/@savo2610) Qualitätscontent
 - [Komoot](https://www.komoot.de/user/464140060326) Wandern und Radfahren
+- [LinkedIn](https://linkedin.com/in/jsveerkamp) Meine Erfahrung
 - [GitHub](https://github.com/Savo2610) Meine Projekte
 
 
