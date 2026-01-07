@@ -9,7 +9,7 @@ Befreunde dich mit mir im Internet:
 - [BeReal](https://bere.al/juliansebv) Fotos
 - [Instagram](https://instagram.com/juliansebv) Schöne Fotos
 - [PayPal](https://paypal.me/juliansebv) Sende oder forder Geld
-- [Solana](solana:julianv.sol) Sende echtes Geld
+- [Solana](solana:BvCkY1zzww8gv6Akn7XNPw9dzj4XJxyyT4GHF9Jev5Da) Sende echtes Geld
 - [Discord](https://discord.com/invite/ethfHJk9) Rede mit mir
 - [Spotify](https://stats.fm/savo) Höre was ich höre
 - [Twitch](https://twitch.tv/savo2610) Schau was ich schau
